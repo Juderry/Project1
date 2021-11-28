@@ -1,0 +1,2 @@
+import pandas as pd
+entrepreneur = pd.read_csv(https://raw.githubusercontent.com/Juderry/Project1/main/Dataset3.csv)
