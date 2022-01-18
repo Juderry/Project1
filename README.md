@@ -8,8 +8,11 @@ As many enthusiasts, I have enjoyed Disney films since I was a child. As a paren
   - https://www.kaggle.com/rashikrahmanpritom/disney-movies-19372016-total-gross?select=disney_movies_total_gross.csv
  
 ## Files in Repository
+- Github Repository
+  -  https://github.com/Juderry/Project1
 - Readme.md 
   - General information about the project
+  - https://github.com/Juderry/Project1/edit/main/README.md
 - The Magic of Disney
   - Jupyter file (https://github.com/Juderry/Project1/blob/main/The%20Magic%20of%20Di%24ney.ipynb)
   - Sections of:
