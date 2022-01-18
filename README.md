@@ -11,7 +11,8 @@ As many enthusiasts, I have enjoyed Disney films since I was a child. As a paren
 - Readme.md 
   - General information about the project
 - The Magic of Disney
-  - Jupyter file with sections of:
+  - Jupyter file (https://github.com/Juderry/Project1/blob/main/The%20Magic%20of%20Di%24ney.ipynb)
+  - Sections of:
     - Business Understanding
       - Brief Description
       - Questions
