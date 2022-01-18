@@ -34,6 +34,8 @@ As many enthusiasts, I have enjoyed Disney films since I was a child. As a paren
       - Analyze
     - Evaluation
       - Findings
+  - The Magic of Disney Blog Post
+    -  https://medium.com/@jterr50/the-magic-of-di-ney-afec7d435cc7
 
 ## Summary of Results
 - Question 1 - A MPAA Rating of PG has a greater gross revenue with inflation over other MPAA Ratings
